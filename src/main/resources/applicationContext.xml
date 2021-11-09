@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--
+    1、xmlns="http://www.springframework.org/schema/beans"
+        版本号和编码，供xml解析使用
+
+    2、xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        XML Namespace 的缩写，即xml命名空间，命名空间是为了解决XML 元素重名问题，类似于java 中包的作用
+
+    3、xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
+        用于定义命名空间和对应的 XSD（XML文档结构定义） 文档的位置
+    -->
+
+</beans>
